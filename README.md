@@ -20,8 +20,8 @@
 <a href="https://www.instagram.com/itsfelixnicolas/">
   <img alt="orangecat.code Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/orangecatcode">
-  <img alt="orangecat.code Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </div>
 
@@ -96,11 +96,11 @@
 ## 📄📜Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=orangecatcode&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=felixnicolascode&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=orangecatcode"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=felixnicolascode"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangecatcode&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnicolascode&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
 
   </td>
@@ -110,9 +110,9 @@
 
 </br>
 
-Credit: [Felix N. Morales](https://github.com/orangecatcode)
+Credit: [Felix N. Morales](https://github.com/felixnicolascode)
 
 <!--description-->
- <p align="center">- <i>Last Edited on: 25/5/2023.</i></p>
+ <p align="center">- <i>Last Edited on: 4/9/2023.</i></p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
